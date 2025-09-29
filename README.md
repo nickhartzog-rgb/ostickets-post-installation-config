@@ -1,0 +1,1 @@
+# ostickets-post-installation-config
